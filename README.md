@@ -1,70 +1,30 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Online-Gym-Training-Website
 
-## Available Scripts
+JavaScript,CSS based Online Gym Training website is a website that includes HTML, CSS, JavaScript codes.
 
-In the project directory, you can run:
+ The reason I created this Online Gym Training website was my desire to bring the product we will create in the Software Engineering course to real life. In doing so, I would be involved in my course and at the same time expand my software knowledge.Here, I expanded my CSS knowledge a lot more and had a new experience in JavaScript, which I just learned.
 
-### `npm start`
+In this GYM Training Website, I have included pages on the 5 most important features of our assignment, which as you can see are Filling in Forms, Exercising, Getting Information, Payment System and Contacting. First of all, if we explain the Form Filling section, here we have developed a form that informs the teachers according to the height, weight, fat ratio and the workouts that the customers want. As a 2nd feature, in the Exercise section, we have developed a point system according to the workouts in order to create a more competitive atmosphere for the customers. 3. As a 3rd feature, in the Get Info section, we provided important information and videos about workouts and workouts that customers can access. As a 4th feature, we created a page with a payment system. With the last and most important feature, Get in Touch, we offered a feature that facilitates bilateral communication between customers and coaches.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Screenshots
 
-### `npm test`
+Home Page:
+![1](https://user-images.githubusercontent.com/82098410/233444377-dc68325c-f033-4d0e-abbc-7408554f3e11.PNG)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Form Page:
+![form](https://github.com/memodesen/Online-Gym-Training/assets/82098410/f77a7013-e59b-4103-b4c6-c66e73a5f14f)
 
-### `npm run build`
+Exercise Page:
+![exercise](https://github.com/memodesen/Online-Gym-Training/assets/82098410/82f3547f-5f7d-4a9b-9b65-32d355ae5733)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Information Paget:
+![info](https://github.com/memodesen/Online-Gym-Training/assets/82098410/52c7b430-e203-49f6-bf55-fbb309011742)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Get in Touch Page:
+![getin](https://github.com/memodesen/Online-Gym-Training/assets/82098410/7a057cb8-5c64-4f4e-8dde-8cfc36b07f77)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Payment Page:
+![3](https://user-images.githubusercontent.com/82098410/233444479-38d7a8a7-b4ad-420e-9c51-14ab22d0f0e4.PNG)
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
