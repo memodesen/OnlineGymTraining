@@ -1,7 +1,7 @@
 
 # Online-Gym-Training-Website
 
-React,JavaScript based Online Gym Training website is a website that includes HTML, CSS, JavaScript and React codes.
+React, JavaScript based Online Gym Training website is a website that includes HTML, CSS, JavaScript and React codes.
 
  The reason I created this Online Gym Training website was my desire to bring the product we will create in the Software Engineering course to real life. In doing so, I would be involved in my course and at the same time expand my software knowledge.Here, I expanded my JavaScript knowledge a lot more and had a new experience in React, which I just learned.
 
