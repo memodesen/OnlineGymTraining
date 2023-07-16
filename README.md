@@ -14,16 +14,17 @@ Home Page:
 ![1](https://user-images.githubusercontent.com/82098410/233444377-dc68325c-f033-4d0e-abbc-7408554f3e11.PNG)
 
 Form Page:
-![form](https://github.com/memodesen/Online-Gym-Training/assets/82098410/f77a7013-e59b-4103-b4c6-c66e73a5f14f)
+![form](https://github.com/memodesen/OnlineGymTraining/assets/82098410/5ce55ea8-bca7-4ea6-b9f1-93d8fbb7200c)
+
 
 Exercise Page:
-![exercise](https://github.com/memodesen/Online-Gym-Training/assets/82098410/82f3547f-5f7d-4a9b-9b65-32d355ae5733)
+![exercise](https://github.com/memodesen/OnlineGymTraining/assets/82098410/8872e89d-6008-4f96-8a33-214b92057322)
 
-Information Paget:
-![info](https://github.com/memodesen/Online-Gym-Training/assets/82098410/52c7b430-e203-49f6-bf55-fbb309011742)
+Information Page:
+![library](https://github.com/memodesen/OnlineGymTraining/assets/82098410/69f5df11-ff07-4159-8161-9fd68e3aac06)
 
 Get in Touch Page:
-![getin](https://github.com/memodesen/Online-Gym-Training/assets/82098410/7a057cb8-5c64-4f4e-8dde-8cfc36b07f77)
+![getin](https://github.com/memodesen/OnlineGymTraining/assets/82098410/cb4886df-22c0-4db8-a23e-580fe5d1d141)
 
 Payment Page:
 ![3](https://user-images.githubusercontent.com/82098410/233444479-38d7a8a7-b4ad-420e-9c51-14ab22d0f0e4.PNG)
